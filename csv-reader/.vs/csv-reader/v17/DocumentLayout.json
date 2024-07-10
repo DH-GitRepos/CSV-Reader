@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daxxi\\Desktop\\CSV READER\\csv-reader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF160FD-1F29-4998-BE1B-2A9AABC49449}|csv-reader\\csv-reader.csproj|C:\\Users\\daxxi\\Desktop\\CSV READER\\csv-reader\\csv-reader\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFF160FD-1F29-4998-BE1B-2A9AABC49449}|csv-reader\\csv-reader.csproj|solutionrelative:csv-reader\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF160FD-1F29-4998-BE1B-2A9AABC49449}|csv-reader\\csv-reader.csproj|c:\\users\\daxxi\\desktop\\csv reader\\csv-reader\\csv-reader\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF160FD-1F29-4998-BE1B-2A9AABC49449}|csv-reader\\csv-reader.csproj|solutionrelative:csv-reader\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\daxxi\\Desktop\\CSV READER\\csv-reader\\csv-reader\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "csv-reader\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\daxxi\\Desktop\\CSV READER\\csv-reader\\csv-reader\\MainWindow.xaml",
+              "RelativeToolTip": "csv-reader\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-09T15:40:01.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\daxxi\\Desktop\\CSV READER\\csv-reader\\csv-reader\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "csv-reader\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\daxxi\\Desktop\\CSV READER\\csv-reader\\csv-reader\\MainWindow.xaml.cs",
+              "RelativeToolTip": "csv-reader\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:40:01.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\daxxi\Desktop\CSV READER\csv-reader\csv-reader\obj\Debug\csv-reader.csproj.AssemblyReference.cache
+C:\Users\daxxi\Desktop\CSV READER\csv-reader\csv-reader\obj\Debug\MainWindow.g.cs
+C:\Users\daxxi\Desktop\CSV READER\csv-reader\csv-reader\obj\Debug\App.g.cs
+C:\Users\daxxi\Desktop\CSV READER\csv-reader\csv-reader\obj\Debug\csv-reader_MarkupCompile.cache
+C:\Users\daxxi\Desktop\CSV READER\csv-reader\csv-reader\obj\Debug\csv-reader_MarkupCompile.lref
+C:\Users\daxxi\Desktop\CSV READER\csv-reader\csv-reader\bin\Debug\csv-reader.exe.config
+C:\Users\daxxi\Desktop\CSV READER\csv-reader\csv-reader\bin\Debug\csv-reader.exe
+C:\Users\daxxi\Desktop\CSV READER\csv-reader\csv-reader\bin\Debug\csv-reader.pdb
+C:\Users\daxxi\Desktop\CSV READER\csv-reader\csv-reader\obj\Debug\MainWindow.baml
+C:\Users\daxxi\Desktop\CSV READER\csv-reader\csv-reader\obj\Debug\csv-reader.g.resources
+C:\Users\daxxi\Desktop\CSV READER\csv-reader\csv-reader\obj\Debug\csv_reader.Properties.Resources.resources
+C:\Users\daxxi\Desktop\CSV READER\csv-reader\csv-reader\obj\Debug\csv-reader.csproj.GenerateResource.cache
+C:\Users\daxxi\Desktop\CSV READER\csv-reader\csv-reader\obj\Debug\csv-reader.csproj.CoreCompileInputs.cache
+C:\Users\daxxi\Desktop\CSV READER\csv-reader\csv-reader\obj\Debug\csv-reader.exe
+C:\Users\daxxi\Desktop\CSV READER\csv-reader\csv-reader\obj\Debug\csv-reader.pdb
